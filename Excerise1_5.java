@@ -14,3 +14,4 @@ public class Exercise1_5{
 	  {
 	arr[i]=input.nextInt();
         }
+    }}
